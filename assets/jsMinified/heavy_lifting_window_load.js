@@ -1,0 +1,1 @@
+$(window).load(function(){var t=document.getElementsByTagName("head")[0],e=document.createElement("script");e.setAttribute("src","assets/jsMinified/heavy_lifting.js"),e.setAttribute("type","text/javascript"),e.setAttribute("async",!0),t.appendChild(e)});
